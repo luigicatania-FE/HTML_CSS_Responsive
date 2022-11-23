@@ -1,6 +1,6 @@
-# HTML + CSS (complete responsive web site)
+# [HTML + CSS (complete responsive web site)(https://youtu.be/2W1bDbDYQ_o)
 
-The [site](https://youtu.be/2W1bDbDYQ_o) consists of three parts: 
+The site consists of three parts: 
  - home page
  - contacts page
  - presentation page 
