@@ -15,8 +15,4 @@ C --> D
 ```
 
 
-[![Watch the video]]([https://youtu.be/vt5fpE0bzSY](https://vimeo.com/774181136))
-
-[![Now in Android: 55]          // Title
-(https://i.ytimg.com/vi/Hc79sDi3f0U/maxresdefault.jpg)] // Thumbnail
-( https://vimeo.com/774181136 "Now in Android: 55")    // Video Link
+[<img src="https://i.ytimg.com/vi/Hc79sDi3f0U/maxresdefault.jpg" width="50%">](https://youtu.be/2W1bDbDYQ_o "Now in Android: 55")
