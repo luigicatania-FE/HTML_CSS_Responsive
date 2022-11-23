@@ -14,3 +14,4 @@ B --> D{sign up}
 C --> D
 
 
+[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://vimeo.com/774181136#t=0)
