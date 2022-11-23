@@ -15,4 +15,4 @@ C --> D
 ```
 
 
-[<img src="https://i.ytimg.com/vi/Hc79sDi3f0U/maxresdefault.jpg" width="50%">](https://youtu.be/2W1bDbDYQ_o "Now in Android: 55")
+(https://youtu.be/2W1bDbDYQ_o "Now in Android: 55")
