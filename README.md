@@ -13,4 +13,4 @@ A --> C(contact us)
 B --> D{sign up}
 C --> D
 
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)](vimeo.com/user189428563/)
+
